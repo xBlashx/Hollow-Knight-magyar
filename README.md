@@ -9,13 +9,13 @@ Az implementálás folyamata:
       - A githubos verzió: https://github.com/TheMulhima/Lumafly
   Tudomásom szerint nincs különbség a 2 között.
 2. Miután letöltött a "mod betöltő" (esetünkben Lumafly), indítsuk el (ha ez nem történt meg automatikusan). A következő ablakot kell látni.
-![lumafly_main](https://github.com/user-attachments/assets/17d12f15-edf6-4e12-94a8-2bb10845e606)
+![lumafly_main](https://github.com/user-attachments/assets/b6a99e52-3c77-4b86-8416-3151cf4f610c)
 3. Nyomjunk rá a felső menüben látható "Mods" fülre, majd keressünk rá a "LanguageSupport"-ra a Mod Search keresőnél. Majd a képen is látható "Install" gomb lenyomásával töltsük le a modot. 
-![lumafly_mod](https://github.com/user-attachments/assets/f406df68-62a8-4f09-96f0-c215c7d5472d)
+![lumafly_mod](https://github.com/user-attachments/assets/1f1a87e3-d4c3-4218-9031-97e487ccd0d6)
 4. Meg kell találni a játék mappáját. Ha manuálisan nem sikerül megtalálni, akkor rányomhatunk jobb klikkel a játékra a steam könyvárban, majd 'Manage'->'Browse local files', majd menjünk bele a 'hollow_knight_Data' mappába. Itt keressük meg a 'sharedassets0.assets' nevű fájlt, és a helyére másoljuk be a mi verziónkat (Tehát az ebben a repository-ban található 'sharedassets0.assets' fájlra).
-![data_mappa](https://github.com/user-attachments/assets/9ae2dcb4-8e6d-4da7-b28e-8e565deed64f)
+![data_mappa](https://github.com/user-attachments/assets/57013170-0844-4d61-8091-286a574e4e58)
 5. Ezután a következő útvonalon láthatjuk az általunk letöltött mod tartalmát: *\Managed\Mods\LanguageSupport\LanguageSupport. A különböző mappákban a különböző nyelvekre lefordított szövegek találhatóak. Ide kell bemásolni az innen letöltött 'HU' nevű mappánkat.
-![lansupport_languages](https://github.com/user-attachments/assets/3db289d1-200b-4dc5-882b-bb60f2b0c863)
+![lansupport_languages](https://github.com/user-attachments/assets/04502eab-063d-4f56-a7e1-91a561ff3be6)
 6. Végül indítsuk el a játékot. Ha minden a tervek szerint történt, akkor a nyelvek között elérhető lesz a magyar.
 
 Ismert hibák:
