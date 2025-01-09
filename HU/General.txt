@@ -1,0 +1,15 @@
+<entries>
+<entry name="GAME_TITLE">Üres Lovag</entry>
+<entry name="PRE_MENU_QUOTE">Visszatalálni elvesztett utadra, semmihez sem fogható érzés.</entry>
+<entry name="GAME_DISPLAY_TITLE"></entry>
+<entry name="SAVE_WARNING">A játék automatikusan ment bizonyos pontokon.&lt;br&gt; Kérlek ne kapcsold ki a játékot amíg ez a szimbólum látszik a kijelzôn.</entry>
+<entry name="CONTROL_PROMPT">kontroller használata erôsen ajánlott</entry>
+<entry name="VERSION_NUMBER">- - -</entry>
+<entry name="PROLOGUE_EXCERPT_AUTHOR">-&#39;Gyászdal Szentfészekhez&#39; Monomon a Tanítótól</entry>
+<entry name="PROLOGUE_EXCERPT_02">Vad lelkünk szelídítése képtelen... mégis vállaltad,</entry>
+<entry name="PROLOGUE_EXCERPT_03">Halovány ôrszemed alatt, tanultunk, változtunk, és ezzel megváltottál,</entry>
+<entry name="PRE_MENU_QUOTE_AUTHOR">- Cornifer</entry>
+<entry name="PROLOGUE_EXCERPT_01">Pusztákon túl cseng neved becsülettel és bánattal,</entry>
+<entry name="SNEAK_PEEK">Ez a sunyi betekintés egy befejezetlen Hollow Knight verzióból származik, és nem tükrözi a végleges teljesítményt</entry>
+<entry name="PROLOGUE_EXCERPT_04">Oly világot hoztál bogárnak és bestiának, melyrôl nem is álmodnál.</entry>
+</entries>

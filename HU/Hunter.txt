@@ -1,0 +1,12 @@
+<entries>
+<entry name="COMPLETE_REPEAT">Bizonyítottad, hogy igazi vadász vagy, egy igazi mestergyilkos. Nagy örömmel adom át a megérdemelt jutalmad...</entry>
+<entry name="HUNTER_MEET">Kis nyüzüge… félelmet nem ismerve közelítesz. Vadász vagy akárcsak én?&lt;page&gt;Érzed a vágyat, hogy ölj, hogy tanulj, hogy megértsed?&lt;page&gt;Akkor vedd el a naplóm. Segíteni fog. Elôször nehezen érthetônek tûnik a szöveg, de egy tanult vadász meg fogja érteni mondanivalóját.&lt;page&gt;Fedezd fel e veszélyes mélységet, és vadászd le bestiáit. Bizonyítsd be méltóságod a Vadász jelének viselésére.</entry>
+<entry name="HUNTER_ENTRIES_COMPLETED">Szóval az összes bestiával találkoztál már. Lenyûgözô. Viszont hátra van még egy feladat.&lt;page&gt;Addig vadászszad ôket, míg meg nem ismered lényüket. Csakis akkor foglak elismerni igazi Vadásznak, aki méltó a jutalomra.</entry>
+<entry name="HUNTER_CONVO_1">Kis nyüzüge! Magad alá gyûrhettél néhány ellenfelet, de ez még csak a kezdet.&lt;page&gt;Ne késlekedj, ereszkedj vissza és vadássz le minden életet amit találsz.</entry>
+<entry name="HUNTER_CONVO_3">Ah ha! Szépen dagad a naplód. Már csak az a kevés, ritka bestia maradt felfedezetlenül.&lt;page&gt;Kutasd at a királyság sarkait. Fejezd be a naplót, és érdemeld ki jutalmad.</entry>
+<entry name="GOT_MARK">Megkaptad a jelem, és most már úgy tekintenek rád mint a magam fajtákra. Nincs már mit adnom neked.</entry>
+<entry name="HUNTER_CONVO_2">Áhhh… tudtam, hogy igazam lesz. Nem akármilyen vadász vagy te. &lt;page&gt;Ne érd be ennyivel kis nyüzüge. Sok vadászni való van még, amit találhatsz.</entry>
+<entry name="HUNTER_COMPLETE">A naplód… had nézzem!&lt;page&gt;Igen… Igen! A Vadásznapló teljes!&lt;page&gt;Bebizonyítottad, hogy igazi vadász vagy, egy mester gyilkos. Megkapod a jutalmadat, ÖRÖKKÉ TARTÓ JUTALMADAT...</entry>
+<entry name="GOT_REVISIT">Vadász társam. Visszatértél? Már bizonyítottál. Csak várok egy kicsit mielôtt elindulnék a következô vadászatomra.&lt;page&gt;Egy igazi vadásznak nincs otthona, nincs királysága, és vágyik új prédákra.&lt;page&gt;Már viseled a jelet, de ez még csak a kezdet. A jel a részeddé fog válni, beléd vési magát. A vadászat utáni vágy… mindig benned lesz.</entry>
+<entry name="HUNTER_DREAM">Nálam is erôsebb... vajon tudja? Majd visszajön levadászni…? Remélem megpróbálja.</entry>
+</entries>

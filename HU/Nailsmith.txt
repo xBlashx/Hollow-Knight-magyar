@@ -1,0 +1,30 @@
+<entries>
+<entry name="NAILSMITH_MEET_1">Hoztál nekem újabb szeget élezni? Hagyd a földön, és gyere vissza késôbb... ha még élsz.</entry>
+<entry name="NAILSMITH_DECLINE">Akkor nem érdekel? Ahogy gondolod.</entry>
+<entry name="ART_DREAM">...Egy egész korszakot végig gürcöltem egyedül... ez így sokkal jobb..</entry>
+<entry name="MODELLING">Épp a Királyság Lovagjainak teljes hadát építjük. Az ô idejükben alig fordítottam rájuk figyelmet, de Sheo élesen emlékszik mindegyikükre.&lt;page&gt;Olyan üdítô érzés. Semmi köze a nyers Szögmunka gyakorlatához. Egyszerûen imádom az összes apró részletet.</entry>
+<entry name="NAILSMITH_OFFER">Ha gondolod, újra kovácsolhatom a szeged. Még halálosabbá teszem a pengét.</entry>
+<entry name="NAILSMITH_COMPLETE_3">Meg is vagyunk. Kész a kovácsolás.&lt;page&gt;Spirális formára alakítottam. Trükkös feladat volt. De erôsebb lett mint valaha.&lt;page&gt;Most mehetsz. Vájd elôre az utad.</entry>
+<entry name="NAILSMITH_GREET">Hmm? Oh, visszatértél.</entry>
+<entry name="NAILSMITH_COMPLETE_1">Megvagyunk. Kész az újra kovácsolás.&lt;page&gt;Megélesítettem a szeg éleit. Sokkal erôsebbnek fogod találni, mint azelôtt.&lt;page&gt;Menj ki és teszteld le az ellenségeiden.</entry>
+<entry name="PAINTED_REPEAT">Ki gondolta volna, hogy Szentfészek sötétségeiben egy ilyen inspiráló személlyel találkozom.</entry>
+<entry name="NAILSMITH_COMPLETE_4">Kész. Az újra kovácsolás kész.&lt;page&gt;A szeged sokkal erôsebb mint valaha. Olyan erôs amennyire csak lehetsséges.&lt;page&gt;Csak a te fegyveredben láttam valaha ilyen potenciált. Végre szemtanúja voltam a Tiszta Szeg fenségének. &lt;page&gt;Belegondolni, hogy ilyen hamar megtörtént...&lt;page&gt;...Ki...ki kell mennem egy picit...</entry>
+<entry name="NAILSMITH_COMPLETE_2">Megvagyunk. Kész a kovácsolás.&lt;page&gt;Új vájatot raktam a szegedre. Sokkal hatásosabban kell hogy vágjon. Erôsebbnek fogod érezni, mint azelôtt.&lt;page&gt;Menj ki és teszteld le az ellenségeiden.</entry>
+<entry name="NAILSMITH_REGREET">Hmm? Még mindig itt vagy. Szeretnél mást is?</entry>
+<entry name="NAILSMITH_ACCEPT">Ahogy kívánod. Akkor nekilátok.</entry>
+<entry name="NAILSMITH_KILL_REPEAT">Ne hezitálj. Könyörgök neked. Vágj le! Érezni akarom a penge rendkívüli élét.</entry>
+<entry name="ART_MEET">Hmm? Oh, üdv utazó. Milyen különös, hogy ismét találkozunk egy ilyen hatalmas világban.&lt;page&gt;Köszönettel tartozom azért, hogy nem öltél meg, amikor arra kértelek. Elôször bosszantott a dolog, de volt idôm gondolkodni odafent, és hamar megértettem a bölcsességet döntésed mögött.&lt;page&gt;A világ több, mint fém és fegyverek. Elindultam felfedezni, és hamarosan ide találtam.&lt;page&gt;Sheo a mûvészetek mestere, és megígérte, hogy megtanít mindenre, amit csak tud. Szerintem itt igazán boldog leszek.</entry>
+<entry name="NAILSMITH_SIGN">Nem használt</entry>
+<entry name="MODELLING_REPEAT">Ez csodálatos. Sosem hittem volna, hogy a karmaim ilyen ügyes alkotásra is képesek.</entry>
+<entry name="NAILSMITH_NEED_ORE1">Ha hozol nekem egy Halvány Ércet, bele tudom kovácsolni a szegedbe, hogy erôsebb legyen.</entry>
+<entry name="NAILSMITH_NEED_ORE3">Ha hozol nekem három Halvány Ércet, bele tudom kovácsolni a szegedbe, hogy erôsebb legyen.</entry>
+<entry name="NAILSMITH_NEED_ORE2">Ha hozol nekem két Halvány Ércet, bele tudom kovácsolni a szegedbe, hogy erôsebb legyen.</entry>
+<entry name="NAILSMITH_KILL">Azzal, hogy megkovácsoltam a Tiszta Szeget, véget ért a feladatom ebben az életben. Az utolsó vágyam, hogy lássam és érezzem a szeg igazi csapását.&lt;page&gt;Könyörgök, vágj le. Végsô pillanatomként, meg akarom ízlelni a penge rendkívüli élét.&lt;page&gt;Ennyi idô után, ennyi erôfeszítés után... nem érdemeltem ki?</entry>
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">Oh, nincs elég Geo-d? Gyere vissza mikor van.</entry>
+<entry name="NAILSMITH_MEET_3">Egy Szegkovácsot keresel? Nos, most találtál egyet. Nem vagyok nagyon beszédes, de ha meg kell javítani egy szeget, akkor jó helyre jöttél.&lt;page&gt;A tiéd elég szegényes állapotban van. Biztosan nem én csináltam. De bármit ki lehet csiszolni elég munkával és ügyességgel, még azt a törött pengét is.</entry>
+<entry name="NAILSMITH_OFFER_ORE">Látom van nálad Halvány Érc. Egy ritka, remek fém. Add oda az ércet és egy kis Geo-t, és erôsebbé kovácsolom a szeged.</entry>
+<entry name="PAINTED">Sajnos nem beszélhetek sokat. Ha túl sokat mozgok, Sheo mester munkája tönkre megy, és nem szeretném feldúltnak látni.</entry>
+<entry name="NAILSMITH_DREAM_CLIFF">Elértem életem mûvét... Mi maradt még...?</entry>
+<entry name="NAILSMITH_MEET_2">Hmm?&lt;page&gt;Oh. Azt hittem valaki más vagy.</entry>
+<entry name="NAILSMITH_DREAM_INTERIOR">...Hogy megkovácsoljam a tökéletes Szeget...</entry>
+</entries>

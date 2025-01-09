@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_CANCEL">Meggondoltad magad? Nos, gyere vissza bármikor.</entry>
+<entry name="BANKER_FAREWELL">Akkor isten veled. Vigyáz magadra.</entry>
+<entry name="BANKER_DREAM_SPA">...Jaj ne... Hagyj békén, ijesztô kicsi izé...</entry>
+<entry name="BANKER_DEPOSIT">Szép munka drága! Biztonságban fogom tartani a Geo-d. </entry>
+<entry name="BANKER_BALANCE_ZERO">N--Nem maradt semmim...Én öhmm...Talán útra kéne kellned, nem?&lt;page&gt;Igen-igen, az lenne a legjobb...</entry>
+<entry name="BANKER_GREET">Hello drága! Szeretnél bankolni?</entry>
+<entry name="BANKER_REMEET">Gondolkodtál, hogy fiókot nyítsz? Geo-t veszteni szörnyû dolog.&lt;page&gt;Sokkal nyugottabban fogsz tudni barangolni a világban, tudván, hogy biztonságban van.</entry>
+<entry name="BANKER_ACCT_OPEN">Okos döntés. Legközelebb, mikor egy félelmetes bestia felül kerekedik rajtad, meg fog nyugtatni a tudat, hogy Geo-d biztonságban van a páncélomb- ...akarom mondani a páncéltermemben.&lt;page&gt;Na bankoljunk akkor.</entry>
+<entry name="BANKER_SPA_GREET">Hm? Oh...v-viszza jöttél. Mikor legutóbb elmentél, azt hittem az volt az utolsó alkalom... hogy látlak.&lt;page&gt;Ez kicsit...öhm...áhh, a Geo-d, igen. Tudnod kell nagy stressz alatt voltam én is. Olyan stressz alatt, hogy el kellett hagynom a bankot.</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">Még mindig nem? Túl sokat hezitálsz. Aki nem mer, az nem nyer. Hozz merész döntéseket és tarts ki mellettük. Ez a trükk a Geo gyarapításhoz. </entry>
+<entry name="BANKER_MEET">Üdv drága. Már azon voltam, hogy bezárom a boltot és elfutok, míg erre nem tévedtél. Nyújdhatok számodra banki szolgáltatást, ha érdekel.&lt;page&gt;Geo-t veszteni szörnyû, és ha folyamatosan magadnál hordod, elég valószínû ennek az elôfordulása.&lt;page&gt;Páncélszekrényemben nagyobb bizontságban lenne. Bankos karrierem alatt, sosem vesztettem el Geo-t!&lt;page&gt;Netán elgondolkodtál a fiók nyitáson?</entry>
+<entry name="BANKER_SPA_MEET">Oh...ôô, üdv megint drága. Vicces, hogy itt futok beléd.&lt;page&gt;A Geo-dért jöttél? Nos tudod, ez ôô... ez egy szomorú történet, deee... nincs meg. El lett költve az összes.&lt;page&gt;Egy bankot vezetni eléggé borsos tudod, ezért be kellett hajtanom a fiókodon egy nagy költséget.&lt;page&gt;Teljesen törvényesen persze. Ez része a banki szerzôdésnek...ha ha...ha.&lt;page&gt;De..öhm...nagyon köszi, hogy meglátogattál, és most elmennél/magamra hagynál? Ha megbocsátasz, hamarosan végzek itt. Utána tiéd az egész gyógyfürdô.</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">...T-T-Talán le kéne pihennem itt egy ideig. Igen, szerintem az lenne a legjobb.</entry>
+<entry name="BANKER_ACCT_DECLINE">Megértem. Nehéz megválni a nehezen megszerzett Geo-tól. Itt leszek, ha meggondolnád magad.</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">Oh, várjunk. Nincs elég Geo-d, hogy fiókot kezdj, sajnos. Ha összegyûjtöttél 100 Geo-t, gyere vissza és megnyitjuk a fiókod.</entry>
+<entry name="BANKER_WITHDRAW">Köszönöm a pénzfelvételt. Ne költds el egyszerre mindet!</entry>
+<entry name="BANKER_SPA_REPEAT">...Nincs harag, ugye?</entry>
+<entry name="BANKER_DREAM">...Vajon mikor térjek vissza ahoz a pompás fürdôhöz?...A víze feloldja a feszültséget a páncélomban...</entry>
+</entries>

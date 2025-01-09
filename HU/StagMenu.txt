@@ -1,0 +1,16 @@
+<entries>
+<entry name="CITY_OF_TEARS_1">Város Raktár</entry>
+<entry name="DIRTMOUTH">Földnyílás</entry>
+<entry name="DEEPNEST">Távoli Falu</entry>
+<entry name="KINGS_STATION">Király Állomása</entry>
+<entry name="RESTING_GROUNDS">Nyugvó Földek</entry>
+<entry name="HIDDEN_STATION">Rejtett Állomás</entry>
+<entry name="STAG_NEST">Szarv Fészek</entry>
+<entry name="ROYAL_GARDENS">Királynô Kertjei</entry>
+<entry name="GREENPATH">Zöldösvény</entry>
+<entry name="STATIONS">Állomások</entry>
+<entry name="BONE_FOREST">Csont Erdô</entry>
+<entry name="CROSSROADS">Elfeledett Keresztezôdések</entry>
+<entry name="FUNGAL_WASTES">Királynô Állomása</entry>
+<entry name="PALACE_GROUNDS">Palota Udvarai</entry>
+</entries>

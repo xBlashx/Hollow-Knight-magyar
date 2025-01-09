@@ -1,0 +1,36 @@
+<entries>
+<entry name="NO_EGGS_REPEAT">Amit én szeretek enni... az puha, kerek, és szétomlik a szádban. Az illata... már a gondolatától nyáladzik a szám. A legjobb dolog az egész világon. </entry>
+<entry name="GREET">Áh, üdv újra. Járkálgattál? A megbánásod miatt jöttél? Had kukkantsak beléd...</entry>
+<entry name="MEET1">Üdv kis betolakodó. Már egy ideje alszok itt. Áhh, igen, igen. Háát, most már úgy is ébren vagyok. Szóval nem számít, gondolom. Talán segíthetek is neked.</entry>
+<entry name="RITUAL_BEGIN">Mmmm... borzasztóan élvezni fogom ezt kis darabkát. Most, ahogy ígértem, elkezdjük a szertartást. </entry>
+<entry name="WATERWAYS">Igen, látom már megbánásod. Egy fekete folt körülvéve csövekkel és vízfolyással. Viszont nem mosódik el csak úgy...</entry>
+<entry name="SHADE_OFFER">Szembeszállhatsz megbánásoddal, ha megosztod velem ínycsiklandozó kajádat.</entry>
+<entry name="RITUAL_REPEAT">Ég veled. Úgy fogok emlékezni rád mint aki ízesebbé tette étkezésem.</entry>
+<entry name="SHAMAN_TEMPLE">Igen, látom a megbánásod. Egy sötét folt egy ôsi dombon... egy hely különös isten tisztelettel.</entry>
+<entry name="CLIFFS">Igen, látom a megbánásod. Egy sötét folt felettünk, körülvéve üvöltô szelekkel.</entry>
+<entry name="MEET2">Jiji vagyok, bizonyára szükséged van a segítségemre ha utad ide vezetett.&lt;page&gt;Tudod, néha csak úgy hátra hagyjuk a megbánásainkat a világban. Mint egy fekete foltot.&lt;page&gt;Ha nem szállunk szembe velük, a remény fokozatosan elvész. Neked van valamilyen megbánásod? Had nézzek beléd egy pillanatra...</entry>
+<entry name="DREAM">Mennyi idôt aludhattam. Sokkal sötétebb van mint régen volt. Tele van megbánással.&lt;page&gt;A levegô is borongósabb. Ha ismét elalszok, vajon egészbe el fog nyelni a sötétség?</entry>
+<entry name="ABYSS">Látom a hátrahagyott megbánásod. Bár csak halványan... egy fekete folt a világ alatt, körülvéve sötétséggel. Majdnem hogy a része...</entry>
+<entry name="CROSSROADS">Látom a hátrahagyott megbánásod. Egy fekete paca alattunk, elveszve a királyság kanyargós útjain és terein.</entry>
+<entry name="SHADE_OFFER_INTRO">Elérhetem, hogy szembeszállj megbánásoddal. Szeretnéd? &lt;page&gt; Viszont eléggé éhes vagyok. Hajlandó lennél megválni egy kis kajától? Aki annyit alszik mint én, annak hamar megjön az étvágya.</entry>
+<entry name="HIVE">Látom a megbánásod. A fekete foltot most aranyszínben pompázó fény veszi körül, egy méhkasban messze innen.</entry>
+<entry name="DECLINE">Oh? Nos, ha nem kívánsz megbékélni, akkor nem segíthetek.</entry>
+<entry name="RITUAL_COMPLETED">Áh, úgy tûnik megbékéltél megbánásoddal egy nagyon regénybeillô és divatos módon. Micsoda öröm. Most viszlát. Gondolok majd rád étkezés közben.</entry>
+<entry name="WASTES">Látom megbánásod. Egy fekete folt furcsa gombák és bugyborékoló tavak közt.</entry>
+<entry name="NOSHADE">Áh, úgy tûnik nincs semmilyen megbánásod. Szerencsés vagy. Nincs szükséged a szolgálataimra.</entry>
+<entry name="CITY">Igen, látom hátrahagyott megbánásod. Fekete folt a királyság szívében. Az esô sem tudja elmosni.</entry>
+<entry name="SHADE_CHARM">Ooohhhh. A mestereim le lennének nyûgözve...&lt;page&gt;Ritka mikor valaki ennyire közös nevezôre jut megbánásaival, neked mégis sikerült.&lt;page&gt;Milyen sötétségen kell keresztül menni hogy ez sikerüljön?</entry>
+<entry name="QUEENS_STATION">Látom megbánásod. Egy fekete folt egyedül a Királynô Állomásán.</entry>
+<entry name="MINES">Látom megbánásod. Egy fekete folt elbújva a csillogó kristályok között.</entry>
+<entry name="KINGS_PASS">Látom megbánásod. Egy fekete folt a közelben, rögtön a királyság bejáratánál.</entry>
+<entry name="COLOSSEUM">Látom megbánásod. Egy fekete folt körülvéve harcosokkal és bolondokkal.</entry>
+<entry name="NOSHADE_REPEAT">Nincs megbánásod. Nincs szükséged a szolgáltatásomra. Viszlát.</entry>
+<entry name="NO_EGGS">Hmm, nincs eledeled. Legalábbis nem olyan ami érdekelne. Nem segíthetek üres hassal, gyere vissza ha találtál valami... igazán táplálót.</entry>
+<entry name="LOST_SHADE">Igen, látom megbánásod. Egy fekete folt elrejtôzve a sötétségen alattunk.</entry>
+<entry name="DEEPNEST">Látom megbánásod. Egy alig látható fekete folt, a királyság alatti fészek alagútjaiban. </entry>
+<entry name="GREEN_PATH">Látom megbánásod. Egy fekete folt egy buja növényzetû, zöld területen.</entry>
+<entry name="OUTSKIRTS">Látom megbánásod. Egy fekete folt messze a világszélén. </entry>
+<entry name="RESTING_GROUNDS">Igen, látom megbánásod. Egy fekete folt egy nyugalmas szent helyen.</entry>
+<entry name="FOG_CANYON">Igen, látom megbánásod. Egy fekete folt elveszve egy fura föld ködjében.</entry>
+<entry name="ROYAL_GARDENS">Látom megbánásod. Egy fekete folt... elrontja e kert gyönyörét.</entry>
+</entries>
