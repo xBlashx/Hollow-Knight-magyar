@@ -15,9 +15,12 @@ Tudomásom szerint nincs különbség a kettő között.
 3. Nyomjunk rá a felső menüben látható "Mods" fülre, majd keressünk rá a "LanguageSupport"-ra a Mod Search keresőnél. Majd a képen is látható "Install" gomb lenyomásával töltsük le a modot. 
 ![lumafly_mod](https://github.com/user-attachments/assets/1f1a87e3-d4c3-4218-9031-97e487ccd0d6)
 4. Utána meg kell találni a játék mappáját. Ha manuálisan nem sikerül megtalálni, akkor rányomhatunk jobb klikkel a játékra a steam könyvtárban, majd 'Manage'->'Browse local files', majd menjünk bele a 'hollow_knight_Data' mappába. Itt keressük meg a 'sharedassets0.assets' nevű fájlt, és a helyére másoljuk be a mi verziónkat (Tehát az ebben a repository-ban található 'sharedassets0.assets' fájlt).
+
 ![data_mappa](https://github.com/user-attachments/assets/57013170-0844-4d61-8091-286a574e4e58)
+
 5. Ezután a következő útvonalon láthatjuk az általunk letöltött mod tartalmát: *\Managed\Mods\LanguageSupport\LanguageSupport. A különböző mappákban a különböző nyelvekre lefordított szövegek találhatóak. Ide kell bemásolni az innen letöltött 'HU' nevű mappánkat.
 ![lansupport_languages](https://github.com/user-attachments/assets/04502eab-063d-4f56-a7e1-91a561ff3be6)
+
 6. Végül indítsuk el a játékot. Ha minden a tervek szerint történt, akkor a nyelvek között elérhető lesz a magyar.
 
 Ismert hibák:
